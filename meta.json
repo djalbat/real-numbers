@@ -1,8 +1,8 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.0",
   "repository": "https://github.com/djalbat/real-numbers",
   "dependencies": {
-    "equality": "2.0",
-    "numbers": "1.0"
+    "equality": "0.0",
+    "numbers": "0.0"
   }
 }
