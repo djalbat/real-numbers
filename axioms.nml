@@ -4,4 +4,4 @@ Axiom (NonZeroRealNumberInfersNotZero)
   Suppose
     r:ℝ\{0}
   Then
-    r ≠ zero
+    r ≠ 𝘻𝘦𝘳𝘰
