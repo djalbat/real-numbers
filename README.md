@@ -1,4 +1,4 @@
-# Numbers
+# Real Numbers
 
 Real numbers for [Occam](https://occam.science).
 
